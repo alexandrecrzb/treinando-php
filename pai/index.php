@@ -9,6 +9,7 @@ $cli->codigo = 12;
 $cli->nome = 'Alexadre';
 $cli->email = 'alexandre@email.com';
 $cli->cpf = '987.075.073-65';
+$cli->twitter = '@teste';
 
 $cli->exibir();
 
@@ -17,5 +18,6 @@ $forn->codigo = '123';
 $forn->nome = 'Microsoft';
 $forn->email = 'contato@microsoft.com';
 $forn->cnpj = '57.413.537/0001-09';
+$forn->twitter = '@teste';
 
 $forn->exibir();
